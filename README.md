@@ -4,9 +4,6 @@ Download All the files
 
 
 Open Anaconda prompt 
-1. Type python you will see the version of python installed type exit() 
-2. If python version is less than 3.8 create a new env using command  
-
 
 Create a new environment if you have python installed less than 3.8 
 
