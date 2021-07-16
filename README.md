@@ -17,8 +17,7 @@ pip install pyarrow
 
 pip install fastparquet
 
-
-
+If any error occurs contact me on deepeshgrover2001@gmail.com
 
 
 1. Open both the files in the jupyter notebook. First run the Backtesting notebook it generate a new dataset. 
